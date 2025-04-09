@@ -9,4 +9,4 @@ A project focused on learning and applying machine learning techniques as part o
 
 
 ## :camera: Showcase
-![design.png](screenshots/design.png)
+![design.png](.github/screenshots/design.png)
